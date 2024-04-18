@@ -1,6 +1,9 @@
 #Entradas
+print("------JOGO DE ADIVINHAÇÃO------")
+print("Escolha um intervalo entre dois números:")
 n1 = int(input("Digite o primeiro número: "))
 n2 = int(input("Digite o segundo número: "))
+print("Agora pense em um número dentro desse intervalo, vou tentar adivinhar!")
 
 #Controle
 numero_encontrado = False
